@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pictureArrays">
+        <item>@drawable/thomas</item>
+        <item>@drawable/edward</item>
+        <item>@drawable/godon</item>
+        <item>@drawable/henry</item>
+        <item>@drawable/james</item>
+        <item>@drawable/donald</item>
+        <item>@drawable/duck</item>
+        <item>@drawable/gro1</item>
+        <item>@drawable/gro2</item>
+        <item>@drawable/hora</item>
+        <item>@drawable/toby</item>
+    </array>
+</resources>
